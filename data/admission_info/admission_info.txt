@@ -1,0 +1,19 @@
+University Admission Information - 2025
+
+Welcome to our University! This document contains the essential admission information for students applying in 2025.
+
+Courses Offered:
+- B.Tech in Computer Science & Engineering (CSE)
+- B.Tech in Electronics & Communication Engineering (ECE)
+- B.Tech in Information Technology (IT)
+
+Admission Requirements:
+- Completion of 10+2 with minimum 65% in PCM
+- Submission of valid documents: Aadhar card, Class 12 Marksheet, Passport photo
+- Optional: Student Loan Application
+
+Important Deadlines:
+- Application Submission: 15th June 2025
+- Fee Payment Deadline: Within 10 days of admission confirmation
+
+Contact us at admissions@university.edu for more details.

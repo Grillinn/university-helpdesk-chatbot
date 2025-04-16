@@ -1,0 +1,28 @@
+Student Admission Process - 2025
+
+The admission process at our university is automated and consists of the following steps:
+
+1. Application Submission:
+   - Students fill out an online admission form with academic details and upload required documents.
+
+2. Document Verification:
+   - Documents such as Class 12 marksheet, Aadhar card, and passport-sized photo are verified by the Document Checking Agent.
+
+3. Eligibility Screening:
+   - Shortlisting Agent checks eligibility based on percentage, subject scores, and branch preference.
+
+4. Loan Requests:
+   - If opted, Student Loan Agent evaluates the application based on predefined loan eligibility criteria.
+   - Loan status is communicated via email.
+
+5. Admission Offer:
+   - Shortlisted candidates receive an official admission offer email with fee structure and payment instructions.
+
+6. Fee Payment:
+   - Students must complete the fee payment within the deadline to confirm their seat.
+
+7. Final Confirmation:
+   - After fee payment, students receive a final admission confirmation and student ID via email.
+
+Director Access:
+- The University Director may ask the Helpdesk Chatbot to view admission progress, student status, or overall summary at any time.

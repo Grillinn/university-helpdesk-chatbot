@@ -1,0 +1,26 @@
+Eligibility Criteria for Admission (Academic Year 2025-2026)
+
+To be eligible for admission to undergraduate programs (B.Tech) at our university, applicants must fulfill the following criteria:
+
+1. Nationality:
+   - The applicant must be an Indian citizen.
+
+2. Academic Qualifications:
+   - The applicant must have completed Class 12 (10+2) or equivalent from a recognized board.
+   - Must have studied Physics, Chemistry, and Mathematics as core subjects.
+
+3. Minimum Marks Required:
+   - A minimum aggregate of 65% in Physics, Chemistry, and Mathematics.
+   - At least 60% marks in each subject individually.
+
+4. Age Limit:
+   - Applicants must be at least 17 years old as of July 1, 2025.
+
+5. Branch-Specific Requirements:
+   - CSE: Preference for students with high Computer Science scores.
+   - ECE: Preference for students with high Physics and Maths scores.
+   - IT: Balanced performance in all Science subjects and English.
+
+Note:
+- Students awaiting Class 12 results may apply provisionally.
+- Fulfilling eligibility criteria does not guarantee admission; selection is based on merit and seat availability.
